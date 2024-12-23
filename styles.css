@@ -57,3 +57,12 @@ body {
   padding: 4px 12px;
   border-radius: 4px;
 }
+
+.reset-btn {
+  cursor: pointer;
+  margin-top: 10px;
+  width: 100px;
+  border: 1px solid gray;
+  padding: 4px 12px;
+  border-radius: 4px;
+}
